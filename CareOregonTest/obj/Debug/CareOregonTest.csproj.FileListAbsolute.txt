@@ -1,0 +1,6 @@
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\bin\Debug\CareOregonTest.exe.config
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\bin\Debug\CareOregonTest.exe
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\bin\Debug\CareOregonTest.pdb
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\obj\Debug\CareOregonTest.csprojResolveAssemblyReference.cache
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\obj\Debug\CareOregonTest.exe
+C:\Users\Scott Alzheimer\Documents\Visual Studio 2012\Projects\CareOregonTest\CareOregonTest\obj\Debug\CareOregonTest.pdb
